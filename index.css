@@ -4,7 +4,10 @@
 }
 
 body {
-  background: #008888;
+  background-image: url('kim.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   display: grid;
   place-items: center;
   height: 100vh;
@@ -55,6 +58,7 @@ img.birthday {
 
 .text {
   padding: 1em;
+  font-weight: 800;
 }
 
 .muted {

@@ -4,13 +4,13 @@
 		.shp0 { opacity: 0.141;fill: #14ef95 } 
 		.shp1 { fill: #14ef95 } 
 		.shp2 { fill: #0b4870 } 
-		.shp3 { fill: #2a94f4 } 
+		.shp3 { fill: #f542b6 } 
 		.shp4 { fill: #ffffff } 
-		.shp5 { opacity: 0.349;fill: #0e538c } 
+		.shp5 { opacity: 0.349;fill: #f542b6 } 
 		.shp6 { opacity: 0.129;fill: #000000 } 
 		.shp7 { fill: #ffdcb6 } 
 		.shp8 { fill: #d3d3d3 } 
-		.shp9 { fill: #0e538c } 
+		.shp9 { fill: #f542b6 } 
 	</style>
 	<g id="Wall">
 		<path id="Layer" class="shp0" d="M439.4 860.2C412.7 856.2 133.3 810.1 47.4 575.2C-27.6 370.1 78.9 114.3 225.4 63.2C339.9 23.3 392.5 138.5 589.4 134.2C794.2 129.8 841.5 3 975.4 36.2C1129.8 74.5 1258.6 290.6 1211.4 446.2C1201.5 478.9 1177.8 528.7 1024.4 630.2C780.3 791.8 633.2 889.1 439.4 860.2Z" />
